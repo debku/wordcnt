@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.sigmoid.training.wordcnt:jar">
+    <output-path>$PROJECT_DIR$/artifacts</output-path>
+    <root id="archive" name="com.sigmoid.training.wordcnt.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
